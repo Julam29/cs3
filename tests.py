@@ -6,6 +6,7 @@ print(l)
 
 s = "derivative delights"
 tot = 0
+print("2")
 for x in (s):
     print(x)
     tot +=1
