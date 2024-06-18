@@ -15,5 +15,5 @@ for x in (s):
 for x in range(6):
     print("BROOOOOOOOOOOO")
 
-
+print("0a                   ")
 print(tot)
