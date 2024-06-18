@@ -12,4 +12,8 @@ for x in (s):
     print(x)
     tot +=1
 
+for x in range(6):
+    print("BROOOOOOOOOOOO")
+
+
 print(tot)
