@@ -13,7 +13,7 @@ for x in (s):
     tot +=1
 
 for x in range(6):
-    print("BROOOOOOOOOOOO")
+    print("ye")
 
 print("0a                   ")
 print(tot)
