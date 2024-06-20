@@ -15,5 +15,5 @@ for x in (s):
 for x in range(6):
     print("ye")
 
-print("0a                   ")
+print("0aSFBSAFASJF BFJK FASJBFJKASBFJKSA FJKSAJKSABFJ")
 print(tot)
